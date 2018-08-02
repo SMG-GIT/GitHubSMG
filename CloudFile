@@ -1,3 +1,7 @@
 New file created on cloud
 File changed for git pull
+<<<<<<< HEAD
 Conflict test
+=======
+Changes made from cloud
+>>>>>>> refs/remotes/origin/master
